@@ -1,0 +1,12 @@
+/* deklarasi font */
+
+@font-face {
+	font-family: 'traditional arabic';
+	src: url('../font/trado.ttf');
+}
+
+.arab {
+	direction: rtl;
+	text-align: justify;
+	font-family: 'traditional arabic';
+}
