@@ -5,12 +5,22 @@
 	src: url('../font/trado.ttf');
 }
 
-.arab {
+img {
+	width: 100%;
+}
+
+.arab h1 {
 	direction: rtl;
 	text-align: justify;
 	font-family: 'traditional arabic';
 }
 
-.arab h1 {
+.arab p {
+	text-align: justify;
+}
+
+.arab h1,
+.arab p,
+img.header {
 	margin-bottom: 36px;
 }
