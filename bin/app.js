@@ -1,9 +1,11 @@
 // buat fungsi baru
 
+// sumber: https://stackoverflow.com/questions/210717/using-jquery-to-center-a-div-on-the-screen
+
 jQuery.fn.center = function () {
     this.css("position","absolute")
-    this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) + $(window).scrollTop()) + "px")
-    this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + $(window).scrollLeft()) + "px")
+    this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2)) + "px")
+    this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2)) + "px")
     return this
 }
 
@@ -11,10 +13,15 @@ jQuery.fn.center = function () {
 
 $('.cover').height($(window).height()).width($(window).width())
 $('.cover-isi').center()
-$('.navbar, .isi-aplikasi').hide()
 $('.cover').click(function(){
-	$(this).slideUp()
-	$('.navbar, .isi-aplikasi').show()
+	$(this).css({
+		top: function(){
+			return 0 - $(window).height()
+		}
+	})
+	$('html, body').animate({
+		scrollTop: 0
+	}, 0)
 })
 
 // isi aplikasi

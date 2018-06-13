@@ -10,8 +10,12 @@
 /* cover */
 
 .cover {
-	/*background: green;*/
+	background: white;
 	cursor: pointer;
+	position: fixed;
+	z-index: 2018;
+	transition: 1s all;
+	top: 0;
 }
 .cover img {
 	width: 80%;

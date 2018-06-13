@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="footer - selamat menikah.svg"
+   sodipodi:docname="cover.svg"
    inkscape:export-filename="/media/data/membuat aplikasi android/dzikir-pagi-dan-petang (amazing)/desain/footer - selamat menikah.png"
    inkscape:export-xdpi="140"
    inkscape:export-ydpi="140">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.019883"
-     inkscape:cx="388.03649"
-     inkscape:cy="605.5051"
+     inkscape:zoom="0.59300554"
+     inkscape:cx="345.77615"
+     inkscape:cy="509.47693"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,8 +61,9 @@
        y="378.66031"
        id="text2987"
        sodipodi:linespacing="125%"
-       inkscape:export-xdpi="140"
-       inkscape:export-ydpi="140"><tspan
+       inkscape:export-xdpi="73.080002"
+       inkscape:export-ydpi="73.080002"
+       inkscape:export-filename="/media/data/membuat aplikasi android/dzikir-pagi-dan-petang (amazing)/media/footer.png"><tspan
          sodipodi:role="line"
          id="tspan2989"
          x="357.40784"
@@ -70,34 +71,54 @@
          style="font-size:50.13066483px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#9c27b0;fill-opacity:1;font-family:Bellerose;-inkscape-font-specification:Bellerose Bold">Selamat menempuh hidup baru</tspan><tspan
          sodipodi:role="line"
          x="357.40784"
-         y="441.32364"
-         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;fill-opacity:1;font-family:Bellerose;-inkscape-font-specification:Bellerose Bold"
+         y="404.42435"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;font-family:Bellerose;-inkscape-font-specification:Bellerose Bold"
          id="tspan3813">.</tspan><tspan
          sodipodi:role="line"
          x="357.40784"
-         y="491.77161"
+         y="436.60828"
          id="tspan2991"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Market Deco;-inkscape-font-specification:Market Deco Bold">Faris Amin Purnama <tspan
    style="font-size:30px;fill:#e91e63;fill-opacity:1"
    id="tspan3799">&amp;</tspan> Tsalatsatun Amanah</tspan><tspan
          sodipodi:role="line"
          x="357.40784"
-         y="535.54309"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold;fill:none"
+         y="457.04642"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
          id="tspan2995">.</tspan><tspan
          sodipodi:role="line"
          x="360.80432"
-         y="581.79309"
+         y="496.62973"
          style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
          id="tspan3810">Semoga barokah <tspan
    style="font-size:37px;fill:#009688;fill-opacity:1"
    id="tspan3007">Quran</tspan> senantiasa menerangi </tspan><tspan
          sodipodi:role="line"
          x="357.40784"
-         y="628.04309"
+         y="542.87976"
          style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
          id="tspan2999">kehidupan kalian berdua. <tspan
    style="font-size:37px;fill:#4caf50;fill-opacity:1"
-   id="tspan3805">Amin</tspan></tspan></text>
+   id="tspan3805">Amin</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="357.40784"
+         y="589.12976"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
+         id="tspan2992" /><tspan
+         sodipodi:role="line"
+         x="357.40784"
+         y="635.37976"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
+         id="tspan2996" /><tspan
+         sodipodi:role="line"
+         x="357.40784"
+         y="681.62976"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
+         id="tspan2998" /><tspan
+         sodipodi:role="line"
+         x="357.40784"
+         y="727.87976"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
+         id="tspan2994">&gt;&gt; tap to open &lt;&lt;</tspan></text>
   </g>
 </svg>
