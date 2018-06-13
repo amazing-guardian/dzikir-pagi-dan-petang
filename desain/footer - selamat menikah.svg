@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="footer - selamat menikah.svg">
+   sodipodi:docname="footer - selamat menikah.svg"
+   inkscape:export-filename="/media/data/membuat aplikasi android/dzikir-pagi-dan-petang (amazing)/desain/footer - selamat menikah.png"
+   inkscape:export-xdpi="140"
+   inkscape:export-ydpi="140">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.019883"
-     inkscape:cx="376.89144"
+     inkscape:cx="388.03649"
      inkscape:cy="605.5051"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +60,9 @@
        x="357.40784"
        y="378.66031"
        id="text2987"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"><tspan
          sodipodi:role="line"
          id="tspan2989"
          x="357.40784"
@@ -65,24 +70,34 @@
          style="font-size:50.13066483px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#9c27b0;fill-opacity:1;font-family:Bellerose;-inkscape-font-specification:Bellerose Bold">Selamat menempuh hidup baru</tspan><tspan
          sodipodi:role="line"
          x="357.40784"
-         y="429.92798"
+         y="441.32364"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;fill-opacity:1;font-family:Bellerose;-inkscape-font-specification:Bellerose Bold"
+         id="tspan3813">.</tspan><tspan
+         sodipodi:role="line"
+         x="357.40784"
+         y="491.77161"
          id="tspan2991"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Market Deco;-inkscape-font-specification:Market Deco Bold">Faris Amin Purnama <tspan
-   style="fill:#e91e63;fill-opacity:1"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Market Deco;-inkscape-font-specification:Market Deco Bold">Faris Amin Purnama <tspan
+   style="font-size:30px;fill:#e91e63;fill-opacity:1"
    id="tspan3799">&amp;</tspan> Tsalatsatun Amanah</tspan><tspan
          sodipodi:role="line"
-         x="360.23776"
-         y="467.91409"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
-         id="tspan2995">Semoga barokah <tspan
-   style="fill:#009688;fill-opacity:1"
+         x="357.40784"
+         y="535.54309"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold;fill:none"
+         id="tspan2995">.</tspan><tspan
+         sodipodi:role="line"
+         x="360.80432"
+         y="581.79309"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
+         id="tspan3810">Semoga barokah <tspan
+   style="font-size:37px;fill:#009688;fill-opacity:1"
    id="tspan3007">Quran</tspan> senantiasa menerangi </tspan><tspan
          sodipodi:role="line"
          x="357.40784"
-         y="506.44904"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
+         y="628.04309"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Atlantic Cruise;-inkscape-font-specification:Atlantic Cruise Bold"
          id="tspan2999">kehidupan kalian berdua. <tspan
-   style="fill:#4caf50;fill-opacity:1"
+   style="font-size:37px;fill:#4caf50;fill-opacity:1"
    id="tspan3805">Amin</tspan></tspan></text>
   </g>
 </svg>
