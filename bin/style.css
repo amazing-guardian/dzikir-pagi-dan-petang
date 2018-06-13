@@ -5,6 +5,20 @@
 	src: url('../font/trado.ttf');
 }
 
+/* css dimulai */
+
+/* cover */
+
+.cover {
+	/*background: green;*/
+	cursor: pointer;
+}
+.cover img {
+	width: 80%;
+}
+
+/* bagian aplikasi */
+
 img {
 	width: 100%;
 }
