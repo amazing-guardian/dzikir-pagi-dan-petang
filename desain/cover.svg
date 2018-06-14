@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +63,7 @@
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="73.080002"
        inkscape:export-ydpi="73.080002"
-       inkscape:export-filename="/media/data/membuat aplikasi android/dzikir-pagi-dan-petang (amazing)/media/footer.png"><tspan
+       inkscape:export-filename="/media/data/membuat aplikasi android/dzikir-pagi-dan-petang (amazing)/media/cover.png"><tspan
          sodipodi:role="line"
          id="tspan2989"
          x="357.40784"
